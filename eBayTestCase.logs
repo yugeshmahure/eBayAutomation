@@ -1,0 +1,6 @@
+14:07:37,047 DEBUG Test SetUp is starting.....
+14:07:37,062 DEBUG All the required capabilities are set
+14:07:40,662 DEBUG Appium started on port 4723
+14:08:44,557 DEBUG Login successful
+14:08:53,134 DEBUG Searching for item
+14:09:02,340 DEBUG Clicked on item to navigate
